@@ -11,6 +11,9 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'pg', group: :production
+gem 'carrierwave'
+gem 'fog'
+gem 'figaro'
 
 
 group :development do
